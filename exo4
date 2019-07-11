@@ -1,0 +1,2 @@
+puts "salut, ça farte ?
+#il y erreur car il manque un quote à la fin du puts
